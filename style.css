@@ -82,7 +82,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(/images/coffee.jpeg);
+    background-image: url(../images/coffee.jpeg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -92,7 +92,7 @@ img {
 /* news ---------------------------------*/
 
 #news {
-    background-image: url(/images/news2.jpg);
+    background-image: url(../images/news2.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -305,7 +305,7 @@ aside {
 
 /* menu--------------------------*/
 #menu {
-    background-image: url(/images/menu-bg.jpg);
+    background-image: url(../images/menu-bg.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -341,7 +341,7 @@ aside {
  /* contact -------------------------------*/
 
  #contact {
-    background-image: url(/images/contact-bg.jpg);
+    background-image: url(../images/contact-bg.jpg);
     min-height: 100vh;
  }
 
