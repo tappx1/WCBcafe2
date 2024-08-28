@@ -92,7 +92,7 @@ img {
 /* news ---------------------------------*/
 
 #news {
-    background-image: url(./images/news2.jpg);
+    background-image: url(../images/news2.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
