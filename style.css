@@ -82,7 +82,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url("../images/coffee.jpeg");
+    background-image: url("https://github.com/tappx1/WCBcafe2/blob/main/images/coffee.jpeg?raw=true");
     min-height: 100vh;
 }
 #home .page-title {
